@@ -2,9 +2,9 @@
 layout: post
 title: Projet artistiques
 date: 2017-09-12 13:32:20 +0300
-description: Projets artistiques variés créés par Maryse Thomassin # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+description: Projets artistiques variés créés par Maryse Thomassin
+img: i-rest.jpg
+fig-caption:
 tags: [Holidays, Hawaii]
 ---
 
@@ -14,4 +14,3 @@ Maryse est une future Designer Web qui aime beaucoup peindre et dessiner. Elle u
 - L'aquarelle
 - Fusain
 - Crayon de couleurs
-
