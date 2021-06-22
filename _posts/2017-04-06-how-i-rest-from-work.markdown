@@ -8,7 +8,7 @@ fig-caption:
 tags: [Holidays, Hawaii]
 ---
 
-## L'art un super passe-temps
+## L'art un super hobby
 Maryse est une future Designer Web qui aime beaucoup peindre et dessiner. Elle utilise plusieurs médiums:
 - L'acrylique
 - L'aquarelle
